@@ -1,0 +1,12 @@
+---
+title: "Simulation Write-Up"
+author: "Sanana Mwanawina"
+date: "2025-05-09"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
